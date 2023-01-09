@@ -1,0 +1,1 @@
+document.body.innerHTML += "<h1 style='color:red'>This heading goes from script.js file</h1>"
