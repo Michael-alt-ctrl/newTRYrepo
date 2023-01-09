@@ -3,3 +3,4 @@ error 2
 error 3
 error 4
 error 6
+error 7
